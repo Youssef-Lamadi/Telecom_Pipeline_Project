@@ -1,4 +1,4 @@
-#Telecom Data Pipeline: Mediation, Rating & Billing
+# Telecom Data Pipeline: Mediation, Rating & Billing
 A Spark/Kafka implementation of telecom revenue management processes
 
 This project implements a production-grade data pipeline for telecom operators featuring:
